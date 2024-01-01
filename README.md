@@ -5,6 +5,5 @@ In this, Provider has been used for the state management and followed by the MVC
 
 # Sreenshots
 
-![Alt text](images/ss/ss1.jpg?raw=true)
-
- ![Alt text](images/ss/ss2.jpg) ![Alt text](images/ss/ss3.jpg) ![Alt text](images/ss/ss4.jpg) ![Alt text](images/ss/ss5.jpg) ![Alt text](images/ss/ss6.jpg) ![Alt text](images/ss/ss7.jpg) ![Alt text](images/ss/ss8.jpg)
+https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss1.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss2.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss3.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss4.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss5.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss6.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss7.jpg https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss8.jpg
+ 
