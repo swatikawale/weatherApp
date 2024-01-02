@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
         child: Consumer<WeatherController>(
             builder: (context, themeProvider, child) {
           return MaterialApp(
-             debugShowCheckedModeBanner: false,
-            title: 'Flutter Weather App',
+            debugShowCheckedModeBanner: false,
+            title: 'WeatherApp',
             theme: ThemeData.light(),
             darkTheme: ThemeData.dark(),
             themeMode:

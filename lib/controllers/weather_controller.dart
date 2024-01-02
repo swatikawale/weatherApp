@@ -8,7 +8,8 @@ class WeatherController extends ChangeNotifier {
   List<WeatherModel> weatherData = [];
   bool _isDarkMode = false;
   bool get isDarkMode => _isDarkMode;
-  String cityname = '';
+
+  String cityame = '';
 
   WeatherController() {
     _loadTheme();
@@ -29,6 +30,7 @@ class WeatherController extends ChangeNotifier {
   void _saveTheme() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setBool('isDarkMode', _isDarkMode);
+    prefs.setString('cityName', cityame);
   }
 
   Future<void> getCurrentCityWeather() async {
