@@ -6,4 +6,4 @@ In this, Provider has been used for the state management and followed by the MVC
 
 # Sreenshots
 
-! [Github Image] (https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss1.jpg)
+! [Github Image] (/images/ss/ss1.jpg)
