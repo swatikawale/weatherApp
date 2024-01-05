@@ -16,7 +16,7 @@ In this, Provider has been used for the state management and followed by the MVC
 </html>
 
 
-![ss1](https://github.com/swatikawale/weatherApp/assets/80878648/78762e1c-0745-4e7a-9cea-6b84add5e37e)
+![ss1 width="500" height="600"](https://github.com/swatikawale/weatherApp/assets/80878648/78762e1c-0745-4e7a-9cea-6b84add5e37e)
 ![ss2](https://github.com/swatikawale/weatherApp/assets/80878648/e7de18c6-0078-4e09-96da-aa5092f80813)
 ![ss3](https://github.com/swatikawale/weatherApp/assets/80878648/17cf696c-d9b5-4db1-8a0a-e8fbc1b6f876)
 ![ss4](https://github.com/swatikawale/weatherApp/assets/80878648/9f09ed75-c03e-4da1-ac4d-3d4c7e78afd2)
