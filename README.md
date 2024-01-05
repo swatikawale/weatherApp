@@ -10,7 +10,7 @@ In this, Provider has been used for the state management and followed by the MVC
 <!DOCTYPE html>
 <html>
 <body>
-<img src="https://github.com/swatikawale/weatherApp/assets/80878648/78762e1c-0745-4e7a-9cea-6b84add5e37e" alt="ss1" width="500" height="600">
+<img src="https://github.com/swatikawale/weatherApp/assets/80878648/78762e1c-0745-4e7a-9cea-6b84add5e37e" alt="ss1" width="300" height="600">
 
 </body>
 </html>
