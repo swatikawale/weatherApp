@@ -6,6 +6,8 @@ In this, Provider has been used for the state management and followed by the MVC
 
 # Sreenshots
 
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg](https://github.com/swatikawale/weatherApp/blob/main/images/ss/ss1.jpg)?dl=0)
+
 <!DOCTYPE html>
 <html>
 <body>
